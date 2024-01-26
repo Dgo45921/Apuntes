@@ -106,4 +106,57 @@ Una aplicación P2P permite que un dispositivo actúe como cliente y servidor de
 ![Imagen app p2p](./Anexos/Modulo1/p2pApp.png)
 
 
+#### Múltiples roles en una red
+Una computadora con software de servidor puede brindar servicios simultáneamente a uno o varios clientes, como se muestra en la figura.
 
+Además, una sola computadora puede ejecutar varios tipos de software de servidor. En un hogar o una pequeña empresa, puede ser necesario que una computadora actúe como servidor de archivos, servidor web y servidor de correo electrónico.
+
+Una sola computadora también puede ejecutar varios tipos de software de cliente. Debe haber un software de cliente para cada servicio requerido. Con varios clientes instalados, un host puede conectarse a varios servidores al mismo tiempo. Por ejemplo, un usuario puede consultar el correo electrónico y ver una página web mientras envía mensajes instantáneos y escucha radio por Internet.
+
+![Imagen app p2p](./Anexos/Modulo1/multi_rol.png)
+
+---
+
+## Componentes de red
+
+El camino que sigue un mensaje desde su origen hasta su destino puede ser tan simple como un solo cable que conecta una computadora a otra, o tan complejo como una red que literalmente se extiende por todo el mundo.
+
+La infraestructura de red contiene tres categorías de componentes de hardware, como se muestra en la figura:
+
+
+- Dispositivos finales
+- Dispositivos intermedios
+- Medios de red
+
+![Tipos de componentes](./Anexos/Modulo1/devices.png)
+
+
+### Dispositivos finales
+Los dispositivos de red con los que la gente está más familiarizada se denominan dispositivos finales o hosts. Estos dispositivos forman la interfaz entre los usuarios y la red de comunicación subyacente.
+
+
+Algunos ejemplos de dispositivos finales son los siguientes:
+
+- Computadoras (estaciones de trabajo, portátiles, servidores de archivos, servidores web)
+- Impresoras de red
+- Teléfonos y equipos de teleconferencia.
+- Cámaras de seguridad
+
+
+Un dispositivo final (o host) es el origen o el destino de un mensaje transmitido a través de la red. Para identificar de forma única los hosts, se utilizan direcciones. Cuando un host inicia la comunicación, utiliza la dirección del host de destino para especificar dónde se debe enviar el mensaje.
+
+
+### Dispositivos intermediarios
+
+Los dispositivos intermediarios interconectan dispositivos finales. Estos dispositivos proporcionan conectividad y operan detrás de escena para asegurar que los datos fluyan a través de la red. Los dispositivos intermediarios conectan los hosts individuales a la red y pueden conectar varias redes individuales para formar una internetwork.
+
+Los siguientes son ejemplos de dispositivos de red intermediarios:
+
+- Acceso a la red (switches y puntos de acceso inalámbrico)
+- Internetworking (routers)
+- Seguridad (firewalls)
+
+
+### Medios de red
+
+Son medios en los cuales la información es transmitida, por ejemplo en ciertos casos puede llegar a ser un cable de una computadora a otra, en otros casos puede llegar a ser una conexión que no vemos como una conexión inalámbrica.
