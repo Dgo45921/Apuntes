@@ -46,7 +46,7 @@ Para conectarse físicamente a una red, un dispositivo de usuario final debe ten
 
 Además de la conexión física, se requiere alguna configuración del sistema operativo para que el dispositivo participe en la red. La mayoría de las redes se conectan a Internet y utilizan Internet para intercambiar información. Un dispositivo de usuario final requiere una dirección de Protocolo de Internet (IP), así como otra información, para identificarlo ante los demás dispositivos de la red. Como se muestra en la figura, existen tres partes en la configuración IP que deben ser correctas para que el dispositivo envíe y reciba información en la red:
 
-- **Dirección IP (IP adress):** identifica el host en la red.
+- **Dirección IP (IP address):** identifica el host en la red.
 - **Máscara de subred (Subnet mask):** se utiliza para identificar la red a la que está conectado el host.
 - **Puerta de enlace predeterminada (Default gateway):** identifica el dispositivo de red que utiliza el host para acceder a Internet u otra red remota.
 
